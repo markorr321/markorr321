@@ -19,4 +19,11 @@ At the heart of it all are my wife Courtney and our daughter Aubrey. They’re m
 ![Intune](https://img.shields.io/badge/Intune-00A1F1?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-1E90FF?style=for-the-badge&logo=powershell&logoColor=white)
 
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markorr321/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MarkHunterOrr)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@markhunterorr)
+
+
 
