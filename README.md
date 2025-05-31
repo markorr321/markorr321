@@ -11,11 +11,12 @@ At the heart of it all are my wife Courtney and our daughter Aubrey. They’re m
 
 ## 🛠 Tech & Tools I Use
 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-6264A7?style=flat&logo=microsoft&logoColor=white)
-![Graph API](https://img.shields.io/badge/Microsoft%20Graph-37A3EB?style=flat&logo=microsoft-graph&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-00A1F1?style=flat&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Azure Automation](https://img.shields.io/badge/Azure%20Automation-0062AD?style=flat&logo=azure-devops&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Automation](https://img.shields.io/badge/Azure%20Automation-004E8C?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-6A5ACD?style=for-the-badge&logo=microsoft&logoColor=white)
+![Graph API](https://img.shields.io/badge/Microsoft%20Graph-33A1FD?style=for-the-badge&logo=microsoft-graph&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-00A1F1?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-1E90FF?style=for-the-badge&logo=powershell&logoColor=white)
+
 
