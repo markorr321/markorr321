@@ -1,3 +1,9 @@
+### 🔧 Featured Project
+
+[🛡️ Multi-Tenant Microsoft Graph PIM Activator](https://github.com/your-username/your-repo-name)  
+Secure Azure AD role activations using Microsoft Graph, Entra ID auth contexts, and interactive MFA with Passkeys.
+
+
 If you’re reading this, I’m probably six Coke Zeros deep.
 
 I’m a Windows guy by day and a macOS and iOS tinkerer by night. I specialize in Microsoft Entra, Intune, and Azure, building secure, scalable systems that keep organizations running smoothly while putting users at the center of every decision.
