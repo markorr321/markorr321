@@ -30,7 +30,7 @@ At the heart of it all are my wife Courtney and our daughter Aubrey. They’re m
 🛡️ **Multi-Tenant Microsoft Graph PIM Activator**
 
 Securely elevate eligible Azure AD roles across tenants using Microsoft Graph with enforced MFA.  
-Supports Entra ID authentication contexts for fine-grained access control and enables interactive, phishing-resistant sign-ins—including Passkey-based authentication.
+Supports Entra ID authentication contexts for fine-grained access control and enables interactive, phishing-resistant sign-ins including Passkey-based authentication.
 
 
 
