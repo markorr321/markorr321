@@ -28,9 +28,6 @@ At the heart of it all are my wife Courtney and our daughter Aubrey. They’re m
 
 ### 🔧 Featured Project
 
-[🛡️ Multi-Tenant Microsoft Graph PIM Activator](https://github.com/your-username/your-repo-name)
-
-Secure Azure AD role activations using Microsoft Graph, Entra ID auth contexts, and interactive MFA with Passkeys.
 
 
 
