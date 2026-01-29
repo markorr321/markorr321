@@ -27,9 +27,6 @@ At the heart of it all are my wife Courtney and our daughter Aubrey. They're my 
 
 ## ✨ Featured Work
 
-### [PIM-Global-MST](https://github.com/markorr321/PIM-Global-MST)
-PIM-Global-MST is a lightweight, secure desktop utility designed to streamline Entra ID Privileged Identity Management (PIM) role activation with integrated Microsoft Teams notifications and approval workflows.
-
 ### [Entra-PIM](https://github.com/markorr321/Entra-PIM)
 PowerShell module for managing Microsoft Entra PIM (Privileged Identity Management) role activations and deactivations. Supports both Entra ID roles and Azure Resource roles with browser-based authentication.
 
