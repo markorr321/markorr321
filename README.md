@@ -1,37 +1,74 @@
-If you're reading this, I'm probably six Coke Zeros deep.
+<p align="center">
+  <img src="./assets/mvp-banner.jpg" alt="Mark Orr - Microsoft MVP" width="100%" />
+</p>
 
-I'm a Windows guy by day and a macOS and iOS tinkerer by night. I specialize in Microsoft Entra, Intune, and Azure, building secure, scalable systems that keep organizations running smoothly while putting users at the center of every decision.
+<h1 align="center">Hi, I am Mark Orr</h1>
 
-I grew up on a family farm in a one-stoplight town where we got three TV channels through an old antenna—on a good day. That small-town grit and curiosity still drive me. I'm a lifelong learner always looking for smarter, more efficient ways to solve real-world IT challenges.
+<p align="center">
+  Microsoft MVP | Microsoft Architect | Intune, Entra, and Azure
+</p>
 
-Whether I'm streamlining device deployment with Autopilot, tightening identity controls in Entra ID, or building automation in Azure, I focus on making complex systems simple, secure, and effective.
+<p align="center">
+  <a href="https://www.linkedin.com/in/markorr321/">LinkedIn</a>
+  ·
+  <a href="https://orr365.tech/">Website</a>
+  ·
+  <a href="https://x.com/MarkHunterOrr">X</a>
+  ·
+  <a href="mailto:markorr321@gmail.com">Email</a>
+</p>
 
-At the heart of it all are my wife Courtney and our daughter Aubrey. They're my reason, my perspective, and the motivation behind everything I do.
+## About Me
 
-## 🛠 Tech & Tools I Use
+I build secure, scalable Microsoft cloud and endpoint solutions with a strong focus on user experience and real-world operational outcomes.
 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Automation](https://img.shields.io/badge/Azure%20Automation-004E8C?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-6A5ACD?style=for-the-badge&logo=microsoft&logoColor=white)
-![Graph API](https://img.shields.io/badge/Microsoft%20Graph-33A1FD?style=for-the-badge&logo=microsoft-graph&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-00A1F1?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-1E90FF?style=for-the-badge&logo=powershell&logoColor=white)
+My core areas are:
+- Microsoft Entra
+- Microsoft Intune
+- Azure automation and platform engineering
+- PowerShell tooling for IT and security operations
 
-## 📬 Connect with Me
+By day I am a Windows-first architect, and by night I tinker across macOS and iOS ecosystems to keep perspective broad and practical.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markorr321/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MarkHunterOrr)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@markhunterorr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markorr321@gmail.com)
+## MVP Focus
 
-## ✨ Featured Work
+I share tools, playbooks, and practical guidance for modern endpoint management, identity security, and cloud operations.
 
-### [Entra-PIM](https://github.com/markorr321/Entra-PIM)
-PowerShell module for managing Microsoft Entra PIM (Privileged Identity Management) role activations and deactivations. Supports both Entra ID roles and Azure Resource roles with browser-based authentication.
+<p>
+  <img src="./assets/mvp-badge.jpg" alt="Microsoft MVP Badge" width="220" />
+</p>
 
-### [Autopilot-Cleanup](https://github.com/markorr321/Autopilot-Cleanup)
-Interactive PowerShell tool for bulk device cleanup across Windows Autopilot, Microsoft Intune, and Microsoft Entra ID. Features automatic module installation, serial number validation, real-time deletion monitoring, and WhatIf mode for safe testing.
+## Featured Projects
 
-### [Run-Proactive-Remediations-On-Demand](https://github.com/markorr321/Run-Proactive-Remediations-On-Demand)
-A PowerShell tool to trigger Intune Proactive Remediation scripts on demand. Supports single device mode or multi-device selection via a WPF GUI with pagination and search. Connects to Microsoft Graph using least-privileged permissions.
+### Entra-PIM
+PowerShell module for Microsoft Entra PIM role activations and deactivations across Entra ID and Azure Resource roles.
+
+### Autopilot-Cleanup
+Interactive PowerShell utility for bulk cleanup across Windows Autopilot, Microsoft Intune, and Microsoft Entra ID.
+
+### Run-Proactive-Remediations-On-Demand
+On-demand Intune proactive remediation execution with Graph integration and device selection workflows.
+
+### CompanyPortal-Win32-Deploy
+Offline Intune deployment pattern for Company Portal as a Win32 app, including per-user registration handling.
+
+## Current Priorities
+
+- Tightening identity controls with least-privilege patterns
+- Improving endpoint deployment reliability with Autopilot and Intune
+- Publishing maintainable PowerShell tooling for day-2 operations
+
+## GitHub Highlights
+
+- Building open-source PowerShell solutions for endpoint and identity administration
+- Documenting practical implementation patterns for enterprise Microsoft environments
+- Shipping tools that prioritize clear UX, safe defaults, and operational confidence
+
+## Optional Badges
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
+  <img src="https://img.shields.io/badge/PowerShell-Expert-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Azure-Architect-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Architect" />
+  <img src="https://img.shields.io/badge/Intune-Endpoint%20Management-0063B1?style=for-the-badge" alt="Intune" />
+</p>
