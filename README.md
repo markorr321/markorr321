@@ -1,8 +1,6 @@
-If you're reading this, I'm probably six Coke Zeros deep.
-
 ![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<img src="./assets/mvp-badge.jpg" alt="Microsoft MVP Badge" width="220" />
+If you're reading this, I'm probably six Coke Zeros deep.
 
 I'm a Windows guy by day and a macOS and iOS tinkerer by night. I specialize in Microsoft Entra, Intune, and Azure, building secure, scalable systems that keep organizations running smoothly while putting users at the center of every decision.
 
