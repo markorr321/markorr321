@@ -1,4 +1,6 @@
-![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="center">
+  <img src="./assets/mvp-badge-horizontal.png" alt="Microsoft Most Valuable Professional" width="320" />
+</p>
 
 If you're reading this, I'm probably six Coke Zeros deep.
 
