@@ -1,42 +1,23 @@
-<p align="center">
-  <img src="./assets/mvp-banner.jpg" alt="Mark Orr - Microsoft MVP" width="100%" />
-</p>
+# Hi, I am Mark Orr
 
-<h1 align="center">Hi, I am Mark Orr</h1>
+Microsoft MVP | Microsoft Architect | Intune, Entra, and Azure
 
-<p align="center">
-  Microsoft MVP | Microsoft Architect | Intune, Entra, and Azure
-</p>
+[LinkedIn](https://www.linkedin.com/in/markorr321/) | [Website](https://orr365.tech/) | [X](https://x.com/MarkHunterOrr) | [Email](mailto:markorr321@gmail.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/markorr321/">LinkedIn</a>
-  ·
-  <a href="https://orr365.tech/">Website</a>
-  ·
-  <a href="https://x.com/MarkHunterOrr">X</a>
-  ·
-  <a href="mailto:markorr321@gmail.com">Email</a>
-</p>
+![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Expert-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Architect-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-Endpoint%20Management-0063B1?style=for-the-badge)
 
 ## About Me
 
 I build secure, scalable Microsoft cloud and endpoint solutions with a strong focus on user experience and real-world operational outcomes.
 
-My core areas are:
+Core areas:
 - Microsoft Entra
 - Microsoft Intune
 - Azure automation and platform engineering
 - PowerShell tooling for IT and security operations
-
-By day I am a Windows-first architect, and by night I tinker across macOS and iOS ecosystems to keep perspective broad and practical.
-
-## MVP Focus
-
-I share tools, playbooks, and practical guidance for modern endpoint management, identity security, and cloud operations.
-
-<p>
-  <img src="./assets/mvp-badge.jpg" alt="Microsoft MVP Badge" width="220" />
-</p>
 
 ## Featured Projects
 
@@ -58,17 +39,12 @@ Offline Intune deployment pattern for Company Portal as a Win32 app, including p
 - Improving endpoint deployment reliability with Autopilot and Intune
 - Publishing maintainable PowerShell tooling for day-2 operations
 
-## GitHub Highlights
+## Optional Banner Setup
 
-- Building open-source PowerShell solutions for endpoint and identity administration
-- Documenting practical implementation patterns for enterprise Microsoft environments
-- Shipping tools that prioritize clear UX, safe defaults, and operational confidence
+If you want the custom MVP banner image at the top, add this file in your profile repo:
 
-## Optional Badges
+- /assets/mvp-banner.jpg
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft-MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
-  <img src="https://img.shields.io/badge/PowerShell-Expert-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Azure-Architect-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Architect" />
-  <img src="https://img.shields.io/badge/Intune-Endpoint%20Management-0063B1?style=for-the-badge" alt="Intune" />
-</p>
+Then add this line at the very top of this README:
+
+<img src="./assets/mvp-banner.jpg" alt="Mark Orr - Microsoft MVP" width="100%" />
